@@ -1,4 +1,4 @@
-# I wanted to see how Git push commands worked using Claude Code. It's cool how it can just do that. Anyways, Claude is a contributer now for that reason lol
+### I wanted to see how Git push commands worked using Claude Code. It's cool how it can just do that. Anyways, Claude is a contributer now for that reason lol
 
 # GridDrop
 
