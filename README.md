@@ -1,3 +1,5 @@
+# I wanted to see how Git push commands worked using Claude Code. It's cool how it can just do that. Anyways, Claude is a contributer now for that reason lol
+
 # GridDrop
 
 **100% offline file transfer between an Android phone and an iPhone with nothing to install on the iPhone.**
