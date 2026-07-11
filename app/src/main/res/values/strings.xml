@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridDrop</string>
+    <string name="channel_name">GridDrop Transfer</string>
+    <string name="channel_desc">Keeps the local hotspot and server running during a transfer.</string>
+</resources>

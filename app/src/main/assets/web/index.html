@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>GridDrop</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">▚ GridDrop</div>
+    <div class="sub" id="mode-label">Connecting…</div>
+  </header>
+
+  <main>
+    <!-- RECEIVE mode: iPhone uploads to Android -->
+    <section id="send-panel" hidden>
+      <h2>Send files to this device</h2>
+      <label class="picker">
+        <input type="file" id="file-input" multiple />
+        <span>Choose files</span>
+      </label>
+      <ul id="upload-list"></ul>
+    </section>
+
+    <!-- SEND mode: iPhone downloads from Android -->
+    <section id="download-panel" hidden>
+      <h2>Files ready to download</h2>
+      <ul id="download-list"></ul>
+      <p class="empty" id="download-empty" hidden>The other device hasn't shared any files yet.</p>
+    </section>
+  </main>
+
+  <footer>100% offline · served locally over your hotspot</footer>
+  <script src="/app.js"></script>
+</body>
+</html>

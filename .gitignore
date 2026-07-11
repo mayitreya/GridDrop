@@ -1,0 +1,22 @@
+# Gradle / build output
+/build
+/app/build/
+/app/release/
+.gradle/
+.kotlin/
+.cxx
+.externalNativeBuild
+/captures
+
+# APK artifacts (attach these to a GitHub Release instead of committing them)
+*.apk
+
+# IDE / machine-specific
+*.iml
+/.idea/
+/local.properties
+.DS_Store
+
+# Local tooling / session directories
+/.claude/
+/.hist/

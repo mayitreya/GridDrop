@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base platform theme; Compose supplies the real Material3 styling at runtime. -->
+    <style name="Theme.GridDrop" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

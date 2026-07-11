@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- "Files dropping into a tray": a row of grid tiles, a downward arrow, and a receiving tray.
+     All content sits inside the adaptive-icon safe zone (roughly the centre 66x66 of 108x108). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Top row: three rounded grid tiles -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M33,30 h6 a3,3 0 0 1 3,3 v6 a3,3 0 0 1 -3,3 h-6 a3,3 0 0 1 -3,-3 v-6 a3,3 0 0 1 3,-3 z" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M51,30 h6 a3,3 0 0 1 3,3 v6 a3,3 0 0 1 -3,3 h-6 a3,3 0 0 1 -3,-3 v-6 a3,3 0 0 1 3,-3 z" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M69,30 h6 a3,3 0 0 1 3,3 v6 a3,3 0 0 1 -3,3 h-6 a3,3 0 0 1 -3,-3 v-6 a3,3 0 0 1 3,-3 z" />
+
+    <!-- Downward transfer arrow (accent mint) -->
+    <path android:fillColor="#FF8CE99A"
+        android:pathData="M51,44 L57,44 L57,54 L63,54 L54,68 L45,54 L51,54 Z" />
+
+    <!-- Receiving tray -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M39,70 h30 a3,3 0 0 1 3,3 v4 a3,3 0 0 1 -3,3 h-30 a3,3 0 0 1 -3,-3 v-4 a3,3 0 0 1 3,-3 z" />
+</vector>
