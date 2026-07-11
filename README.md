@@ -1,4 +1,4 @@
-### I wanted to see how Git push commands worked using Claude Code. It's cool how it can just do that. Anyways, Claude is a contributer now for that reason lol
+#### I wanted to see how Git push commands worked using Claude Code. It's cool how it can just do that. Anyways, Claude is a contributer now for that reason lol
 
 # GridDrop
 
@@ -31,6 +31,8 @@ There is also a **"Stats for nerds"** panel, reachable from the home and transfe
 ## Build
 
 Requires **Android SDK Platform 36 (Android 16)** to compile the apk. The app targets API 36 (Android 16). However, this app is known to work (tested) on Android 9 using the compiled apk using the method below.
+
+**There's a release in the releases tab**. Otherwise...
 
 **Command line** (self-contained toolchain, no root. This repo was built this way):
 
