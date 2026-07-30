@@ -99,4 +99,4 @@ app/src/main/
 ### Author
 Mayitreya Pasumarthy - Made with love, and maybe a little bit of spite too <3
 
-Also if anyone is hiring, hit me up please, my website is [here](https://mayitreya.github.io/website)
+Also if anyone is hiring, hit me up please, my website is [here](https://mayitreya.vercel.app)
